@@ -1,1 +1,1 @@
-# js-art
+# js-palavras
